@@ -17,11 +17,8 @@
   right: 134px;
 }
 .a:hover {
-  color: #ffffff;
-  border: 2px solid black;
-  /* padding: 4px 2px; */
-  background-color: #000000;
-  font-size: 16px;
+  color: red;
+  transition: .4s;
 }
 .img {
   position: absolute;
